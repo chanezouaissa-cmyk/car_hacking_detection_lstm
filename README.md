@@ -18,8 +18,8 @@ dentifiant le type d'attaque à partir du Car-Hacking Dataset.
 | 0     | Normal        |
 | 1     | DoS           |
 | 2     | Fuzzy         |
-| 3     | RPM Spoofing  |
-| 4     | Gear Spoofing |
+| 3     | Gear Spoofing  |
+| 4     | RPM Spoofing |
 
 ---
 
